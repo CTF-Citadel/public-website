@@ -1,2 +1,3 @@
-# public-website
-Public facing website for CTF Citadel
+# Public Website
+
+Public website for domain `tophack.at`.
